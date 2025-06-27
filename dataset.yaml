@@ -1,0 +1,5 @@
+train: C:\Users\OS\BOLTS\dataset\images\train
+val: C:\Users\OS\BOLTS\dataset\images\val
+
+nc: 1
+names: ['bolt']  
